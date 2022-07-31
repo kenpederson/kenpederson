@@ -1,4 +1,4 @@
-Software Developer :upside_down:
+Software Developer :upside_down_face:
 
 <!--
 This is just here to provide an example of adding a gif to your github profile's md file. Disregard.
