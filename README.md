@@ -1,22 +1,9 @@
-Software Developer :upside_down_face:
+Software Engineer
 
-<!--
-This is just here to provide an example of adding a gif to your github profile's md file. Disregard.
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
--->
+Most interested in building functional and accessible tools for the web
 
+JavaScript | TypeScript | Angular | Node
 
-<!--
-**kenpederson/kenpederson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring what's new and happening in .Net recently
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C# | ASP.NET | .Net Core
